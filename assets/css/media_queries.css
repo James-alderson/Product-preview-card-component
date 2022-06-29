@@ -1,0 +1,30 @@
+/* ---- When window resolution bigger than 500 pixel ---- */
+@media (min-width: 500px) {
+	.card {
+		flex-direction: row;
+	}
+	.card-img img {
+		border-radius: 10px 0 0 10px;
+	}
+	.card-content {
+		padding: 1.4rem 1.8rem 1.8rem 1.8rem;
+	}
+	.card-content h3 {
+		font-size: 1.8rem;
+		margin: 1rem 0;
+	}
+	.card-content p {
+		margin-top: 1.5rem;
+	}
+	.card-category {
+		font-size: 11.5px;
+	}
+	.card-price {
+		margin: 0.8rem 0;
+	}
+	.card-btn {
+		font-size: 13px;
+		padding: 0.8rem;
+		column-gap: 0.6rem;
+	}
+}
