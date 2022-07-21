@@ -30,8 +30,13 @@ Users should be able to:
 
 ### Links
 
+<<<<<<< HEAD
 - Solution URL: [Solution](#)
 - Live Site URL: [Live Demo](#)
+=======
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/css-grid-flexbox-ti41IESVnD)
+- Live Site URL: [Live Demo](https://james-alderson.github.io/Product-preview-card-component/)
+>>>>>>> 493b1438329d1417a86bd685c521b287fd73bfc5
 
 ## My process
 
@@ -77,4 +82,8 @@ To see how you can add code snippets, see below:
 
 ## Author
 
+<<<<<<< HEAD
 - Frontend Mentor - [@James-alderson](https://www.frontendmentor.io/profile/James-alderson)
+=======
+- Frontend Mentor - [@James-alderson](https://www.frontendmentor.io/profile/James-alderson)
+>>>>>>> 493b1438329d1417a86bd685c521b287fd73bfc5
