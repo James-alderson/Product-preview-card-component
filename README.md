@@ -25,18 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/Screenshots/mobile-design.png)
-![](./assets/Screenshots/desktop-design.png)
+![](./assets/screenshots/mobile-design.png)
+![](./assets/screenshots/desktop-design.png)
 
 ### Links
 
-<<<<<<< HEAD
-- Solution URL: [Solution](#)
-- Live Site URL: [Live Demo](#)
-=======
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/css-grid-flexbox-ti41IESVnD)
-- Live Site URL: [Live Demo](https://james-alderson.github.io/Product-preview-card-component/)
->>>>>>> 493b1438329d1417a86bd685c521b287fd73bfc5
+- Live Site URL: [Live Site](https://james-alderson.github.io/FrontendMentor_Product-preview-card-component/)
 
 ## My process
 
@@ -47,7 +42,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- CSS Vendor Prefixes
+- [BEM](https://en.bem.info/methodology/) methodology
 
 ### What I learned
 
@@ -65,25 +60,18 @@ To see how you can add code snippets, see below:
 <picture>
   <source 
     srcset="./assets/images/image-product-desktop.jpg"
-    media="(min-width: 500px)"
-    loading="lazy"
+    media="(min-width: 600px)"
   />
   <img 
     src="./assets/images/image-product-mobile.jpg"
     alt="Gabrielle chanel"
-    loading="lazy"
   />
 </picture>
 ```
 ### Useful resources
 
-- [W3schools](https://www.w3schools.com/tags/tag_picture.asp) - This helped me for understanding <picture> tag how it actually work. I really liked this pattern and will use it going forward.
-- [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture) - This is an amazing article which helped me finally understand <picture> tag. I'd recommend it to anyone learning HTML.
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture) - This helped me to use the `<picture>` element.
 
 ## Author
 
-<<<<<<< HEAD
 - Frontend Mentor - [@James-alderson](https://www.frontendmentor.io/profile/James-alderson)
-=======
-- Frontend Mentor - [@James-alderson](https://www.frontendmentor.io/profile/James-alderson)
->>>>>>> 493b1438329d1417a86bd685c521b287fd73bfc5
